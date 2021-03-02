@@ -1,0 +1,14 @@
+{
+  "name": "01-getting-started",
+  "version": "1.0.0",
+  "description": "Getting started on three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "James Wang <jwsb0702@gmail.com>",
+  "license": "ISC"
+}
